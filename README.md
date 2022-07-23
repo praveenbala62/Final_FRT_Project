@@ -5,6 +5,8 @@ I have created a website named NEOX using HTML, CSS and JavaScript it helps the 
 
 # Microsoft Azure link to Neox : https://jolly-bush-0b5543210.1.azurestaticapps.net/
 
+# GitHub link to Neox : praveenbala62.github.io/final_frt_project/
+
 #About My Project
 
 Industry Name: Lifestyle
