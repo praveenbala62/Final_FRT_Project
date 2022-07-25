@@ -21,7 +21,9 @@ As we know that fashion and styling is a raging topic and many people find probl
 
 I have created a website named NEOX using HTML, CSS and JavaScript it helps the customer to find correct style for them. Due to lack of style people feel different from others in the society this create depression in them and they might go through serious issue. So this project will help them in that aspect it will show the best updated style for that particular person. In the website I have added six sections that is Home, About, Services, Gallery, Dropdown, Contact. It is very well defined website where I have added all the factors that will help the customer with proper style sense.
 
+## Primary Azure Technology: Static Web App, Web
 
+## Video URL: 
 
 ## Deployment
 
