@@ -11,7 +11,7 @@ I have created a website named NEOX using HTML, CSS and JavaScript it helps the 
 
 ## Industry Name: Lifestyle
 
-## Project Title: Enhance your style website
+## Project Title: Enhance Your Style Website
 
 ## Problem Statement:
 
@@ -23,7 +23,7 @@ I have created a website named NEOX using HTML, CSS and JavaScript it helps the 
 
 ## Primary Azure Technology: Static Web App, Web
 
-## Video URL: 
+## Video URL: https://www.youtube.com/watch?v=RmH1DqFIWZ4
 
 ## Deployment
 
